@@ -1,0 +1,34 @@
+body{
+    background-color: rgba(10, 134, 218, 0.342);
+}
+
+mark {
+      background-color:rgb(238, 255, 0);
+      font-family:arial narrow;
+      color:black}
+
+
+h3{  
+     color:rgb(255, 5, 5);
+     font-family:arial black;}
+
+.container{
+      background:border-box rgb(223, 215, 215);
+      color:black;
+      width: 600px;
+      margin: auto;
+      padding:20px;
+      border-radius: 25px;
+      text-decoration:center;}
+
+table {
+      margin-left:100px;
+      font-weight: 500;}
+
+.sectionMargin{
+      padding-top: 2rem;
+}
+
+.sectionMargin1{
+      padding-top: 8rem;
+}
